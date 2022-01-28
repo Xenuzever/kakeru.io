@@ -1,0 +1,11 @@
+{
+  "title": "Article Title",
+  "Author": "Author Name",
+  "Category": "categoryId",
+  "Tags": [
+    "tag1",
+    "tag2",
+    "tag3"
+  ],
+  "publish": false
+}
