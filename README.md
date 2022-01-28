@@ -63,7 +63,6 @@ Simply put, it is a personal blog. It is an academic recording device for daily 
 
 ### Technology Stacks
 
-- [JAMStack](https://jamstack.org/headless-cms/)
 - [GitHub Actions](https://github.co.jp/features/actions)
     - [Get Diff Action](https://github.com/marketplace/actions/get-diff-action)
 - Frontend Frameworks
